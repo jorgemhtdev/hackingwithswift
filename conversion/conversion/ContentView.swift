@@ -40,7 +40,7 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             Form {
-                Section(header: Text("Convert")) {
+                Section(header: Text("Convert Temperature")) {
                     Picker("Convert", selection: $selectedFromTemperature) {
                         ForEach(0 ..< temperatureConversion.count) {
                             Text("\(self.temperatureConversion[$0])")
