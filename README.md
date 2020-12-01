@@ -10,9 +10,11 @@ Code: https://github.com/jorgemhtdev/hackingwithswift/tree/main/wesplit
 
 - **Challenge 1 (day 19)**
 
-  - Code: https://github.com/jorgemhtdev/hackingwithswift/tree/main/conversion 
-  - [Challenge](https://www.hackingwithswift.com/100/swiftui/19) 
-  - [Mesure](https://developer.apple.com/documentation/foundation/measurement)
+<img src="https://github.com/jorgemhtdev/hackingwithswift/blob/main/conversion/ConvertTemperature.png" width="250" height="500">
+Code: https://github.com/jorgemhtdev/hackingwithswift/tree/main/conversion 
+
+ - [Challenge](https://www.hackingwithswift.com/100/swiftui/19) 
+ - [Mesure](https://developer.apple.com/documentation/foundation/measurement)
 
 
 Thanks [Paul Hudson](https://twitter.com/twostraws)
