@@ -46,7 +46,8 @@ struct ContentView: View {
                     Spacer()
                 }
                 
-                Text("Your score is \(score)")                        .foregroundColor(.white)
+                Text("Your score is \(score)")
+                    .foregroundColor(.white)
                     .font(.body)
                     .fontWeight(.black)
             }

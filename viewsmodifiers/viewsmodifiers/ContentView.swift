@@ -69,6 +69,10 @@ struct ContentView: View {
             
             Text("Project 2").titleStyle()
 
+            //ForEach(countries, id: \.self) {
+            //    FlagImage(imgName: $0.lowercased())
+            //}
+            
             ForEach(0 ..< 3) { number in
                 FlagImage(imgName: self.countries[number].lowercased())
             }
