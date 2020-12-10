@@ -27,7 +27,7 @@ Code: https://github.com/jorgemhtdev/hackingwithswift/tree/main/conversion
 
 Code: https://github.com/jorgemhtdev/hackingwithswift/tree/main/challengeplay
 
-Design: 
+Design: https://dribbble.com/shots/14739150-Dise-o-Interfaz-del-juego-piedra-papel-o-tijeras
  
  ---
 
