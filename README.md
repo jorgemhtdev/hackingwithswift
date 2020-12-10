@@ -20,6 +20,17 @@ Code: https://github.com/jorgemhtdev/hackingwithswift/tree/main/conversion
 
  ---
  
+ - **Day 19 – Challenge day**
+ 
+<img src="https://github.com/jorgemhtdev/hackingwithswift/blob/main/challengeplay/challengeplay%20-%201.png" width="250" height="500"/>
+<img src="https://github.com/jorgemhtdev/hackingwithswift/blob/main/challengeplay/challengeplay%20-%202.png" width="250" height="500"/>
+
+Code: https://github.com/jorgemhtdev/hackingwithswift/tree/main/challengeplay
+
+Design: 
+ 
+ ---
+
 - **Day 20 – Project 2, part one**
 - **Day 21 – Project 2, part two**
 - **Day 22 – Project 2, part three**
@@ -37,5 +48,6 @@ Code: https://github.com/jorgemhtdev/hackingwithswift/tree/main/guesstheflag
 Code: https://github.com/jorgemhtdev/hackingwithswift/tree/main/viewsmodifiers
 
 ---
+
 
 Thanks [Paul Hudson](https://twitter.com/twostraws)
